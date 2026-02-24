@@ -126,5 +126,4 @@ The script will automatically:
 - Evaluate on a held-out test set
 - Save model checkpoints and evaluation results
 
-No additional command-line arguments are required.
 
