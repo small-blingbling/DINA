@@ -75,7 +75,7 @@ Default training loss uses **CLIP-style symmetric cross-entropy** on similarity 
 ├── neural_tower.py        # Neural response tower (attention-based encoder)
 ├── models.py              # DS-Net / MixVisionTransformer implementation
 ├── ModelTrainer.py        # Training loop, loss functions, reproducibility
-├── Model/                 # Saved checkpoints (auto-generated)
+├── Model/                 # Saved checkpoints
 └── M6/
     └── Data/
         ├── images.mat     # Visual stimuli
